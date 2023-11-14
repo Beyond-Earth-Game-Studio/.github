@@ -1,4 +1,4 @@
-## make something here cam pls (has to be on this file sorry)
+## Game Studio based in Ottawa, Ontario
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
